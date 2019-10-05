@@ -8,12 +8,13 @@ Terraform Code Blocks
 
 Terraform Commands
 
-$ terraform version
-$ terraform init
-$ terraform plan
-$ terraform apply
-$ terraform show
-$ terraform destroy
+1. $terraform version
+2. $terraform init
+3. $terraform plan
+4. $terraform apply
+5. $terraform show
+6. $terraform destroy
+
 
 Scenario#1
 

@@ -6,6 +6,14 @@ Terraform Code Blocks
 4. Variables
 5. output
 
+Terraform Commands
+
+$ terraform version
+$ terraform init
+$ terraform plan
+$ terraform apply
+$ terraform destroy
+
 Scenario#1
 
 1. Deploy  AWS EC2 instance in the default VPC

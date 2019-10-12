@@ -1,11 +1,11 @@
 variable "access_key" {
     type = "string"
-    default = "AKIA2MIL24FBNHKJVLPZ"
+    default = "XXXXXXXXXXXXXXXXXXXXX"
 }
 
 variable "secret_key" {
     type = "string"
-    default = "ohZcb6uW6F+J9QbEvMqblWMQ58s2R6R0IJFJHNYt"
+    default = "XXXXXXXXXXXXXXXXXXXXXX"
 }
 
 variable "region" {

@@ -7,6 +7,15 @@ provider "aws" {
 }
 
 #Variables
+terraform {
+
+  backend "s3" {
+    bucket         = "iwayq-terraform-state"
+    key            = "iwayq/prod"
+    region         = "us-east-1"
+    
+  }
+}
 
 #Create EC2 instance
 resource "aws_instance" "TestInstance1" {
